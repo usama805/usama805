@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Usama Rabi and I'am ..., from  Islamabad ,pakistan</h2>
+<h2 align="left">Hi 👋! My name is Usama Rabi and I am a Frontend Developer from Islamabad, Pakistan</h2>
 
 ###
 
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" /
+  <img width="12" />
 </div>
 
 ###
@@ -41,5 +41,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
