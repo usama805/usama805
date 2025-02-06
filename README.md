@@ -1,27 +1,49 @@
-- 👋 Hi, I’m @usama805  A curious web developer on a journey to master the web ... 
-- 👀 I’m interested in web development, programming, and expanding my tech skills....
-- 🌱 I’m currently learning JavaScript, HTML, CSS, and backend development.
-- 💞️ I’m looking to collaborate on web development projects and coding challenges....
-- 📫 How to reach me  : [usamarabi44@gmail.com  ....  https://www.linkedin.com/in/usama-rabi-78640a290 ] ...
-- 😄 Pronouns:   He  ...
-- ⚡ Fun fact:  👨‍💻 Developer & Coding Enthusiast
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-I'm passionate about exploring new coding tools and technologies that can enhance the development process. I am always on the lookout for libraries, frameworks, and other tools that can make coding more efficient and enjoyable. I focus on continuous learning, trying out new languages, and improving my skills with every project.
+###
 
-🎶 Music Lover
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-When I’m not coding, you can find me diving into new music genres or discovering emerging artists. Music serves as my creative outlet and helps me unwind after long coding sessions.
+###
 
-🧩 Coding Puzzle Aficionado
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-I love challenging myself with coding puzzles, algorithmic challenges, and participating in hackathons. Whether it's a daily challenge on platforms like LeetCode or solving tricky algorithm problems, I'm always eager to push my problem-solving skills further.
+###
 
-💡 What I’m Working On
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-Currently, I’m working on several side projects and collaborating on open-source contributions. I’m particularly focused on improving my skills in [mention a specific language or framework you're working with, e.g., JavaScript, React, etc.].
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<!---
-usama805/usama805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
