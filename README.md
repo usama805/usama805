@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Usama Rabi and I am a Frontend Developer from Islamabad, Pakistan</h2>
+<h3> I am a passionate and dedicated Frontend Developer with a strong background in designing and building user-friendly, responsive, and visually appealing websites. With experience in HTML, CSS, JavaScript, and modern frontend frameworks, I thrive in creating dynamic user interfaces and delivering smooth, interactive web experiences.</h3>
 
 ###
 
@@ -41,3 +42,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
