@@ -1,7 +1,10 @@
-<h2 align="left">Hi 👋! My name is Usama Rabi and I am a Frontend Developer</h2>
-<h3> I am a passionate and dedicated Frontend Developer with a strong background in designing and building user-friendly, responsive, and visually appealing websites. With experience in HTML, CSS, JavaScript, and modern frontend frameworks, I thrive in creating dynamic user interfaces and delivering smooth, interactive web experiences.</h3>
+<h2 align="left">Hi 👋! I'm Usama Rabi, a passionate Frontend Developer</h2>
+<h3>With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js, I create user-friendly, responsive, and visually appealing websites.</h3>
+<h3>I focus on writing clean, efficient code and delivering high-performance web applications with a focus on UI/UX design.</h3>
+<h3>I'm also skilled in Git, version control, and collaborating in Agile environments with design teams to deliver seamless user interfaces.</h3>
+<h3>My goal is to continuously learn and grow, improving both my frontend and full-stack development skills.</h3>
+<h3>If you're looking for a dedicated developer to build dynamic, interactive web experiences, feel free to reach out! 🚀</h3>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usama805&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
