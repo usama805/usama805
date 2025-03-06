@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Usama Rabi, a passionate Frontend Developer</h2>
-<h3>With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js, I create user-friendly, responsive, and visually appealing websites.</h3>
+<h3>With expertise in HTML, CSS, JavaScript, and modern frameworks like React, I create user-friendly, responsive, and visually appealing websites.</h3>
 <h3>I focus on writing clean, efficient code and delivering high-performance web applications with a focus on UI/UX design.</h3>
 <h3>I'm also skilled in Git, version control, and collaborating in Agile environments with design teams to deliver seamless user interfaces.</h3>
 <h3>My goal is to continuously learn and grow, improving both my frontend and full-stack development skills.</h3>
