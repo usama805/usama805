@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! I'm Usama Rabi, a passionate Frontend Developer</h2>
-<h3>With expertise in HTML, CSS, JavaScript, and modern frameworks like React, I create user-friendly, responsive, and visually appealing websites.</h3>
-<h3>I focus on writing clean, efficient code and delivering high-performance web applications with a focus on UI/UX design.</h3>
-<h3>I'm also skilled in Git, version control, and collaborating in Agile environments with design teams to deliver seamless user interfaces.</h3>
-<h3>My goal is to continuously learn and grow, improving both my frontend and full-stack development skills.</h3>
+<h2 align="left">Hi 👋! I'm Usama Rabi, a Frontend Developer</h2>
+<h3>I make websites with HTML, CSS, JavaScript, React, and Bootstrap. I make sure they are easy to use, look nice, and work on all devices.</h3>
+<h3>I try to write clean code and make websites that work well and look good for users.</h3>
+<h3>I know how to use Git for version control and like working with design teams to build smooth websites.</h3>
+<h3>I'm always learning new things to get better as a frontend developer.</h3>
+
 <h3>If you're looking for a dedicated developer to build dynamic, interactive web experiences, feel free to reach out! 🚀</h3>
 
 
