@@ -62,7 +62,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
- ![snake gif](https://github.com/usama805/usama805/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/usama805/usama805/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
