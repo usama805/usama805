@@ -50,8 +50,8 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/usama-rabi-78640a290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-    Test commit to trigger GitHub Actions 🚀
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
+   
 
   </a>
 </div>
@@ -62,7 +62,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/usama805/usama805/output/snake.svg" alt="Snake animation" />
+ ![snake gif](https://github.com/usama805/usama805/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
