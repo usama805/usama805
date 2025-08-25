@@ -1,74 +1,121 @@
-<!-- Profile Header -->
-<h2 align="left">Hi 👋! I'm Usama Rabi, a Frontend Developer</h2>
-
-<h3>🌐 I make websites with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Bootstrap</strong>. I make sure they are easy to use, look nice, and work on all devices.</h3>
-
-<h3>🧼 I try to write clean code and make websites that work well and look good for users.</h3>
-
-<h3>🔧 I know how to use <strong>Git</strong> for version control and like working with design teams to build smooth websites.</h3>
-
-<h3>📚 I'm always learning new things to get better as a frontend developer.</h3>
-
-<h3>🚀 If you're looking for a dedicated developer to build dynamic, interactive web experiences, feel free to reach out!</h3>
-
----
-
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usama805&hide=issues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama805&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-
-
-   <!-- Custom Fake Total Issues Badge -->
-  <br /><br />
-  <img src="https://img.shields.io/badge/Total%20Issues-0-blue" alt="Total Issues" />
-</div>
-
-
----
-
-<!-- Tech Stack Section -->
-<h2 align="left">🧰 Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
-</div>
-
----
-
-<!-- Connect Section -->
-<h2 align="left">🔗 Connect With Me</h2>
-
-<div align="left">
-  <a href="https://github.com/usama805/usama805" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/usama-rabi-78640a290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
-   
-
-  </a>
-</div>
-
----
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<h1 align="center">Hi, I'm Usama Rabi 👋</h1>
+<h3 align="center">A Passionate Frontend Developer Specializing in Modern Web Technologies</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/usama805/usama805/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=React+Developer;JavaScript+Enthusiast;UI%2FUX+Focused;Clean+Code+Advocate" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Crafting+Exceptional+User+Experiences;Building+Responsive+Web+Applications;Transforming+Designs+into+Reality" alt="Typing SVG" />
 </p>
 
 ---
+
+## 🚀 About Me
+
+I'm a dedicated frontend developer with expertise in building modern, responsive web applications. My passion lies in creating intuitive user interfaces with clean, maintainable code that delivers exceptional user experiences across all devices.
+
+- 🔭 I'm currently working on **enhancing my React and JavaScript skills**
+- 🌱 I'm learning **advanced React patterns and performance optimization**
+- 👯 I'm looking to collaborate on **open source projects and innovative web applications**
+- 💬 Ask me about **React, JavaScript, responsive design, and frontend development**
+- ⚡ Fun fact: **I believe clean code is not just a practice but an art form**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usama805&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama805&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama805&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+## 🏆 Featured Projects
+
+### [E-Commerce Website](https://github.com/usama805/ecommerce-react)
+A fully responsive e-commerce platform built with React, featuring product filtering, cart functionality, and user authentication.
+
+**Tech Stack:** React, Context API, React Router, CSS Modules, Mock API
+
+### [Weather Dashboard](https://github.com/usama805/weather-dashboard)
+A modern weather application that displays current and forecasted weather data with an intuitive UI.
+
+**Tech Stack:** JavaScript, OpenWeather API, Chart.js, Bootstrap
+
+### [Lab Website](https://github.com/usama805/Lab-website)
+A responsive laboratory website built with HTML, CSS, and JavaScript, featuring clean design and interactive functionality.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Local Storage API
+
+---
+
+## 📈 Development Philosophy
+
+- **Clean Code**: Writing maintainable, readable, and efficient code
+- **User-Centric Design**: Prioritizing user experience in every implementation
+- **Performance Optimization**: Ensuring fast loading and smooth interactions
+- **Cross-Browser Compatibility**: Delivering consistent experiences across browsers
+
+
+---
+
+## 🔝 Most Used Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-48.9%25-yellow?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-26.7%25-orange?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-18.4%25-blue?style=flat-square)
+![React](https://img.shields.io/badge/React-6.0%25-blue?style=flat-square)
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/usama805/usama805/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/usama-rabi-78640a290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/usama805">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+### ⭐️ From [Usama Rabi](https://github.com/usama805)
+
+[![Visitors](https://komarev.com/ghpvc/?username=usama805&color=blueviolet&style=flat)](https://github.com/usama805)
+
+</div>
