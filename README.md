@@ -60,7 +60,7 @@ A fully responsive e-commerce platform built with React, featuring product filte
 
 **Tech Stack:** React, Context API, React Router, CSS Modules, Mock API
 
-### [Weather Dashboard](https://github.com/usama805/weather-dashboard)
+### [Weather Dashboard](https://github.com/usama805/Weather-app)
 A modern weather application that displays current and forecasted weather data with an intuitive UI.
 
 **Tech Stack:** JavaScript, OpenWeather API, Chart.js, Bootstrap
