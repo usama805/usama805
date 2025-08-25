@@ -65,7 +65,7 @@ A modern weather application that displays current and forecasted weather data w
 
 **Tech Stack:** JavaScript, OpenWeather API, Chart.js, Bootstrap
 
-### [Lab Website](https://github.com/usama805/Lab-website)
+### [Lab Website](https://github.com/usama805/lab-website)
 A responsive laboratory website built with HTML, CSS, and JavaScript, featuring clean design and interactive functionality.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, Local Storage API
