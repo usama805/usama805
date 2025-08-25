@@ -55,11 +55,6 @@ I'm a dedicated frontend developer with expertise in building modern, responsive
 
 ## 🏆 Featured Projects
 
-### [E-Commerce Website](https://github.com/usama805/ecommerce-react)
-A fully responsive e-commerce platform built with React, featuring product filtering, cart functionality, and user authentication.
-
-**Tech Stack:** React, Context API, React Router, CSS Modules, Mock API
-
 ### [Weather Dashboard](https://github.com/usama805/Weather-app)
 A modern weather application that displays current and forecasted weather data with an intuitive UI.
 
