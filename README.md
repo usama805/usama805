@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Usama Rabi 👋</h1>
+<h1 align="center">Hi, I'm Usama 👋</h1>
 <h3 align="center">A Passionate Frontend Developer Specializing in Modern Web Technologies</h3>
 
 <p align="center">
