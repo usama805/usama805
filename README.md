@@ -85,7 +85,8 @@ A responsive laboratory website built with HTML, CSS, and JavaScript, featuring 
 ![HTML](https://img.shields.io/badge/HTML5-26.7%25-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS3-18.4%25-blue?style=flat-square)
 ![React](https://img.shields.io/badge/React-6.0%25-blue?style=flat-square)
-
+![Tailwind](https://img.shields.io/badge/Tailwind-8.0%25-38BDF8?style=flat-square&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0%25-3178C6?style=flat-square&logo=typescript)
 ---
 
 ## 🐍 Contribution Graph
