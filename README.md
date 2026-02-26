@@ -48,9 +48,9 @@ I'm a dedicated frontend developer with expertise in building modern, responsive
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama805&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama805&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 ---
