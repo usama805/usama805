@@ -11,19 +11,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a dedicated frontend developer with expertise in building modern, responsive web applications. My passion lies in creating intuitive user interfaces with clean, maintainable code that delivers exceptional user experiences across all devices.
 
-- 🔭 I'm currently working on **enhancing my React and JavaScript skills**
-- 🌱 I'm learning **advanced React patterns and performance optimization**
-- 👯 I'm looking to collaborate on **open source projects and innovative web applications**
+-  I'm currently working on **enhancing my React and JavaScript skills**
+-  I'm learning **advanced React patterns and performance optimization**
+-  I'm looking to collaborate on **open source projects and innovative web applications**
 - 💬 Ask me about **React, JavaScript, responsive design, and frontend development**
-- ⚡ Fun fact: **I believe clean code is not just a practice but an art form**
+-  Fun fact: **I believe clean code is not just a practice but an art form**
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,7 +71,7 @@ A responsive laboratory website built with HTML, CSS, and JavaScript, featuring 
 
 ---
 
-## 📈 Development Philosophy
+##  Development Philosophy
 
 - **Clean Code**: Writing maintainable, readable, and efficient code
 - **User-Centric Design**: Prioritizing user experience in every implementation
@@ -81,7 +81,7 @@ A responsive laboratory website built with HTML, CSS, and JavaScript, featuring 
 
 ---
 
-## 🔝 Most Used Languages
+##  Most Used Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-48.9%25-yellow?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-26.7%25-orange?style=flat-square)
@@ -114,7 +114,7 @@ A responsive laboratory website built with HTML, CSS, and JavaScript, featuring 
 
 <div align="center">
   
-### ⭐️ From [Usama Rabi](https://github.com/usama805)
+###  From [Usama Rabi](https://github.com/usama805)
 
 [![Visitors](https://komarev.com/ghpvc/?username=usama805&color=blueviolet&style=flat)](https://github.com/usama805)
 
